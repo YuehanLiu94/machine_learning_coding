@@ -1,2 +1,1 @@
-# python_leetcode
-Daily practice python
+# machine learning 
